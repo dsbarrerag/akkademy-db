@@ -2,8 +2,6 @@ package com.davsanba.akkademy.homework.chapter1
 
 import akka.actor.ActorSystem
 import akka.testkit.TestActorRef
-import com.davsanba.akkademy.AkkademyDb
-import com.davsanba.akkademy.messages.SetRequest
 import org.scalatest.{BeforeAndAfterEach, FunSpecLike, Matchers}
 
 class LastStringActorSpec extends FunSpecLike with Matchers with

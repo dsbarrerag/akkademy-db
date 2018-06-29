@@ -1,7 +1,8 @@
 bin/
-project/
+project/target/
 target/
 build/
+*.class
 *.log
 *.iml
 *.ipr
